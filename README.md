@@ -126,7 +126,7 @@
 	en 20 x 20
 	Pacman étant représenté par la lettre 'p', les fantomes par g G h H , les murs par le signe '=' et la nourriture via le signe '.'
 
-### N.B : Dans le cadre de test, la fonction de collision ainsi que l'écran d'affichage de défaite ont été désactivés
+### N.B : Dans le cadre de test, la fonction de collision ainsi que l'écran d'affichage de défaite ont été désactivé
 
 
 
